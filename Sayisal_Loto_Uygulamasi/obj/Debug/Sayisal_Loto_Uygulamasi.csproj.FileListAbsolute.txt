@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Sayisal_Loto_Uygulamasi\bin\Debug\Sayisal_Loto_Uygulamasi.exe.config
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Sayisal_Loto_Uygulamasi\bin\Debug\Sayisal_Loto_Uygulamasi.exe
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Sayisal_Loto_Uygulamasi\bin\Debug\Sayisal_Loto_Uygulamasi.pdb
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Sayisal_Loto_Uygulamasi\obj\Debug\Sayisal_Loto_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Sayisal_Loto_Uygulamasi\obj\Debug\Sayisal_Loto_Uygulamasi.Form1.resources
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Sayisal_Loto_Uygulamasi\obj\Debug\Sayisal_Loto_Uygulamasi.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Sayisal_Loto_Uygulamasi\obj\Debug\Sayisal_Loto_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Sayisal_Loto_Uygulamasi\obj\Debug\Sayisal_Loto_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Sayisal_Loto_Uygulamasi\obj\Debug\Sayisal_Loto_Uygulamasi.exe
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Sayisal_Loto_Uygulamasi\obj\Debug\Sayisal_Loto_Uygulamasi.pdb
